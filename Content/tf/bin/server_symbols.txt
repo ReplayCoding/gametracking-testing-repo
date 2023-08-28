@@ -66632,7 +66632,7 @@ ___cxx_global_array_dtor121
 ___cxx_global_array_dtor121
 ___cxx_global_array_dtor13
 ___cxx_global_array_dtor130
-___cxx_global_array_dtor1342
+___cxx_global_array_dtor1349
 ___cxx_global_array_dtor14
 ___cxx_global_array_dtor140
 ___cxx_global_array_dtor15
@@ -66749,7 +66749,7 @@ ___cxx_global_array_dtor48
 ___cxx_global_array_dtor48
 ___cxx_global_array_dtor483
 ___cxx_global_array_dtor488
-___cxx_global_array_dtor493
+___cxx_global_array_dtor500
 ___cxx_global_array_dtor51
 ___cxx_global_array_dtor52
 ___cxx_global_array_dtor53
@@ -66782,7 +66782,7 @@ ___cxx_global_array_dtor99
 ___cxx_global_var_init11
 ___cxx_global_var_init1465
 ___cxx_global_var_init15
-___cxx_global_var_init1505
+___cxx_global_var_init1512
 ___cxx_global_var_init16
 ___cxx_global_var_init16
 ___cxx_global_var_init169
@@ -68512,6 +68512,7 @@ _tf_mvm_currency_bonus_ratio_min
 _tf_mvm_death_penalty
 _tf_mvm_default_sentry_buster_damage_dealt_threshold
 _tf_mvm_default_sentry_buster_kill_threshold
+_tf_mvm_defenders_team_size
 _tf_mvm_disconnect_on_victory
 _tf_mvm_endless_bomb_reset
 _tf_mvm_endless_bot_cash
@@ -68519,6 +68520,7 @@ _tf_mvm_endless_force_on
 _tf_mvm_endless_tank_boost
 _tf_mvm_endless_wait_time
 _tf_mvm_engineer_teleporter_uber_duration
+_tf_mvm_max_connected_players
 _tf_mvm_min_players_to_start
 _tf_mvm_miniboss_scale
 _tf_mvm_missioncyclefile
